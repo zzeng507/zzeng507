@@ -25,11 +25,11 @@ A 5-year peer comparison of **Tesla (TSLA)**, **Nvidia (NVDA)**, and **Ford (F)*
 
 **Key visuals**
 <p>
-  <img src="imagesrevenue_by_year.png.png" width="420" />
-  <img src="imagesebitda_margin.png.png" width="420" />
+  <img src="revenue_by_year.png.png" width="420" />
+  <img src="ebitda_margin.png.png" width="420" />
 </p>
 <p>
-  <img src="imagesrevenue_forecast.png.png" width="560" />
+  <img src="revenue_forecast.png.png" width="560" />
 </p>
 
 **Why it’s useful**
